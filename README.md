@@ -6,9 +6,9 @@ I've received my B.S. double majoring in Computer Science and Applied Mathematic
 
 Currently open to pursuing software engineering and machine learning internships.
 
-**Programming Languages: JavaScript/TypeScript, Node, Python, Java, Ruby, Swift, C#, C/C++**
+**Programming Languages: JavaScript/TypeScript, Python, Java, Ruby, Swift, C#, C/C++**
 
-**Frameworks:            React, Express, MongoDB, SQL, InfluxDB, Hadoop, Spark, OpenCV, TensorFlow, Rails**
+**Frameworks: React, Express, MongoDB, SQL, InfluxDB, Hadoop, Spark, OpenCV, TensorFlow, Rails, Node**
 
 <img src="./images/CS_banner.png" align="center" style="width: 100%" />
 </div>  
