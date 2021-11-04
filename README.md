@@ -8,7 +8,7 @@ Currently open to pursuing software engineering and machine learning internships
 
 **Programming Languages: JavaScript/TypeScript, Python, Java, Ruby, Swift, C#, C/C++**
 
-**Frameworks: React, Express, MongoDB, SQL, InfluxDB, Hadoop, Spark, OpenCV, TensorFlow, Rails, Node**
+**Frameworks: React, Express, MongoDB, SQL, InfluxDB, Hadoop, Spark, OpenCV, TensorFlow, Rails**
 
 <img src="./images/CS_banner.png" align="center" style="width: 100%" />
 </div>  
