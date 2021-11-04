@@ -1,6 +1,6 @@
 # Jason Huang - Aspiring Full Stack Software Engineer
 ### Summary
-Currently studying Computer Science at Columbia University on the Machine Learning Track. My definition of "full stack" is the ability to recognize and write quality code for the application, server, database, network, and hardware. This also entails the ability to be familiar with computational methods such as machine learning, operations research, graph theory, natural language processing, etc. 
+My definition of "full stack" is the ability to recognize and write quality code for the application, server, database, network, and hardware. This also entails the ability to be familiar with computational methods such as machine learning, operations research, graph theory, natural language processing, etc. To that extent, I'd like to become an expert software engineer that can manage all software stacks.
 
 I've received my B.S. in Computer Science and Applied Mathematics and Statistics at Stony Brook University.
 
