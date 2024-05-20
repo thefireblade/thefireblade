@@ -1,4 +1,4 @@
-# Jason Huang - Aspiring Full Stack Software Engineer
+# Jason Huang - Full Stack Software Engineer
 ### Summary
 My definition of "full stack" is the ability to recognize and write quality code for the application, server, database, network, and hardware. This also entails the ability to be familiar with computational methods such as machine learning, operations research, graph theory, natural language processing, etc. To that extent, I'd like to become an expert software engineer that can manage all software stacks.
 
