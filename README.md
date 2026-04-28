@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:111827,35:2f80ed,70:14b8a6,100:ffd166&text=Jason%20Huang&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=twinkling&desc=Software%20Engineer&descAlignY=62&descSize=20" alt="Jason Huang animated header" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:111827,35:2f80ed,70:14b8a6,100:ffd166&text=Jason%20Huang&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=twinkling&desc=Software%20Engineer&descAlignY=62&descSize=20&descColor=e5e7eb" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:f8fafc,30:dbeafe,62:ccfbf1,100:fef3c7&text=Jason%20Huang&fontColor=111827&fontSize=48&fontAlignY=38&animation=twinkling&desc=Software%20Engineer&descAlignY=62&descSize=20&descColor=334155" alt="Jason Huang animated header" width="100%" />
+</picture>
 
 <img src="./images/profile-photo.jpg" alt="Jason Huang" width="50%" />
 
@@ -40,7 +43,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=58&color=gradient&customColorList=6,12,20,24&text=What%20I%20Build&fontSize=24&fontColor=ffffff&animation=twinkling" alt="What I Build" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&height=58&color=0:111827,45:2f80ed,100:14b8a6&text=What%20I%20Build&fontSize=24&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=58&color=0:dbeafe,45:ccfbf1,100:fef3c7&text=What%20I%20Build&fontSize=24&fontColor=111827&animation=twinkling" alt="What I Build" width="100%" />
+</picture>
 
 <table width="100%">
   <tr>
@@ -76,7 +82,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=58&color=gradient&customColorList=12,20,24,6&text=Background&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Background" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&height=58&color=0:14b8a6,50:2f80ed,100:9b5cff&text=Background&fontSize=24&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=58&color=0:ccfbf1,50:dbeafe,100:fce7f3&text=Background&fontSize=24&fontColor=111827&animation=twinkling" alt="Background" width="100%" />
+</picture>
 
 <div align="center">
 
@@ -97,7 +106,10 @@
 | Data workflows, graph algorithms, research tooling, IoT, and robotics | **B.S. Computer Science**, Stony Brook University |
 | Full-stack foundation with breadth across applied systems | Applied Mathematics & Statistics |
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=58&color=gradient&customColorList=20,24,6,12&text=Toolkit&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Toolkit" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&height=58&color=0:ffd166,48:2f80ed,100:14b8a6&text=Toolkit&fontSize=24&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=58&color=0:fef3c7,48:dbeafe,100:ccfbf1&text=Toolkit&fontSize=24&fontColor=111827&animation=twinkling" alt="Toolkit" width="100%" />
+</picture>
 
 <div align="center">
 
@@ -117,12 +129,21 @@
 | **Infrastructure and Data** | Kubernetes, Docker, AWS, Google Cloud Platform, Azure, PostgreSQL, MongoDB, MySQL, Redis, Spark, Hadoop |
 | **Applied Systems** | OpenCV, TensorFlow, Scikit-learn, NumPy, graph algorithms, IoT systems, robotics |
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=58&color=gradient&customColorList=24,6,12,20&text=GitHub%20Snapshot&fontSize=24&fontColor=ffffff&animation=twinkling" alt="GitHub Snapshot" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&height=58&color=0:9b5cff,45:2f80ed,100:14b8a6&text=GitHub%20Snapshot&fontSize=24&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=58&color=0:fce7f3,45:dbeafe,100:ccfbf1&text=GitHub%20Snapshot&fontSize=24&fontColor=111827&animation=twinkling" alt="GitHub Snapshot" width="100%" />
+</picture>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thefireblade&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" alt="Jason Huang GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=thefireblade&hide_border=true&theme=transparent" alt="Jason Huang GitHub streak stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thefireblade&show_icons=true&count_private=true&hide_border=false&bg_color=111827&title_color=61dafb&text_color=e5e7eb&icon_color=14b8a6&border_color=2f80ed&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thefireblade&show_icons=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=1d5fd1&text_color=334155&icon_color=14b8a6&border_color=dbeafe&rank_icon=github" alt="Jason Huang GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thefireblade&hide_border=false&background=111827&border=2f80ed&stroke=61dafb&ring=14b8a6&fire=ffd166&currStreakNum=ffffff&sideNums=e5e7eb&currStreakLabel=61dafb&sideLabels=94a3b8&dates=94a3b8" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=thefireblade&hide_border=false&background=ffffff&border=dbeafe&stroke=1d5fd1&ring=14b8a6&fire=ff7f50&currStreakNum=111827&sideNums=334155&currStreakLabel=1d5fd1&sideLabels=64748b&dates=64748b" alt="Jason Huang GitHub streak stats" />
+</picture>
 
 <br />
 <br />
@@ -135,4 +156,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,50:2f80ed,100:111827&animation=twinkling" alt="Footer wave" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,50:2f80ed,100:111827&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ccfbf1,50:dbeafe,100:fef3c7&animation=twinkling" alt="Footer wave" width="100%" />
+</picture>
