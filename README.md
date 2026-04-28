@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:111827,35:2f80ed,70:14b8a6,100:ffd166&text=Jason%20Huang&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=twinkling&desc=Software%20Engineer&descAlignY=62&descSize=20" alt="Jason Huang animated header" width="100%" />
 
-<img src="./images/profile-photo.jpg" alt="Jason Huang" width="155" />
+<img src="./images/profile-photo.jpg" alt="Jason Huang" width="50%" />
 
 <br />
 <br />
