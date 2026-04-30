@@ -14,7 +14,10 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=1800&pause=450&color=64748B&center=true&vCenter=true&width=760&lines=Clean+interfaces.;Reliable+services.;Useful+automation.;Production-minded+engineering." alt="Animated concise summary" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=1800&pause=450&color=CBD5E1&center=true&vCenter=true&width=760&lines=Clean+interfaces.;Reliable+services.;Useful+automation.;Production-minded+engineering." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=1800&pause=450&color=64748B&center=true&vCenter=true&width=760&lines=Clean+interfaces.;Reliable+services.;Useful+automation.;Production-minded+engineering." alt="Animated concise summary" />
+</picture>
 
 <br />
 <br />
@@ -89,12 +92,18 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1500&pause=450&color=64748B&center=true&vCenter=true&width=820&lines=Production+engineering.;Full-stack+product+work.;Research+and+applied+systems." alt="Animated background highlights" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1500&pause=450&color=CBD5E1&center=true&vCenter=true&width=820&lines=Production+engineering.;Full-stack+product+work.;Research+and+applied+systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1500&pause=450&color=64748B&center=true&vCenter=true&width=820&lines=Production+engineering.;Full-stack+product+work.;Research+and+applied+systems." alt="Animated background highlights" />
+</picture>
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Production-Systems%20with%20real%20users-111827?style=flat-square" alt="Production systems with real users" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Production-Systems%20with%20real%20users-e5e7eb?style=flat-square&labelColor=1f2937" />
+  <img src="https://img.shields.io/badge/Production-Systems%20with%20real%20users-111827?style=flat-square" alt="Production systems with real users" />
+</picture>
 <img src="https://img.shields.io/badge/Product-UI%20to%20services-2f80ed?style=flat-square" alt="Product UI to services" />
 <img src="https://img.shields.io/badge/Applied-Data%2C%20research%2C%20IoT-14b8a6?style=flat-square" alt="Applied data research IoT" />
 
@@ -113,7 +122,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1500&pause=450&color=64748B&center=true&vCenter=true&width=820&lines=Languages.;Product+and+services.;Infrastructure+and+data.;Applied+systems." alt="Animated toolkit lanes" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1500&pause=450&color=CBD5E1&center=true&vCenter=true&width=820&lines=Languages.;Product+and+services.;Infrastructure+and+data.;Applied+systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1500&pause=450&color=64748B&center=true&vCenter=true&width=820&lines=Languages.;Product+and+services.;Infrastructure+and+data.;Applied+systems." alt="Animated toolkit lanes" />
+</picture>
 
 <br />
 <br />
