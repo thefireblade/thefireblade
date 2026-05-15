@@ -39,30 +39,11 @@ I am a Software Engineer with a full-stack foundation and breadth across applied
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,java,ruby,go,swift,cs,c,cpp&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,ruby,go,swift,cs,c,cpp&theme=light" alt="Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,java,ruby,go,swift,cs,c,cpp,react,nodejs,express,rails,django,firebase,kubernetes,docker,aws,gcp,azure,postgres,mongodb,mysql,redis,tensorflow,opencv,scikit&theme=dark&perline=14" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,ruby,go,swift,cs,c,cpp,react,nodejs,express,rails,django,firebase,kubernetes,docker,aws,gcp,azure,postgres,mongodb,mysql,redis,tensorflow,opencv,scikit&theme=light&perline=14" alt="Technology Stack" />
 </picture>
 
 <br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,rails,django,firebase&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,rails,django,firebase&theme=light" alt="Frameworks" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,postgres,mongodb,mysql,redis&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,postgres,mongodb,mysql,redis&theme=light" alt="Infrastructure" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,opencv,scikit&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikit&theme=light" alt="Applied Systems" />
-</picture>
 
 </div>
 
