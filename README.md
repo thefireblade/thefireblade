@@ -32,23 +32,6 @@ I am a Software Engineer with a full-stack foundation and breadth across applied
 
 ---
 
-### 🛠️ Technology Stack
-
-<div align="center">
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,java,ruby,go,swift,cs,c,cpp,react,nodejs,express,rails,django,firebase,kubernetes,docker,aws,gcp,azure,postgres,mongodb,mysql,redis,tensorflow,opencv,scikit&theme=dark&perline=14" />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,ruby,go,swift,cs,c,cpp,react,nodejs,express,rails,django,firebase,kubernetes,docker,aws,gcp,azure,postgres,mongodb,mysql,redis,tensorflow,opencv,scikit&theme=light&perline=14" alt="Technology Stack" />
-</picture>
-
-<br />
-
-</div>
-
----
-
 ### 🎓 Education
 
 - **M.S. Computer Science**, Columbia University
