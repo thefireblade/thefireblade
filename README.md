@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./images/profile-photo.jpg" alt="Jason Huang" width="180" style="border-radius: 50%;" />
+<img src="./images/palace-of-fine-arts.jpg" alt="Jason Huang" width="180" style="border-radius: 50%;" />
 
 <br />
 
 # Hi, I'm Jason Huang 👋
 
-**Software Engineer | Systems Builder | Applied Researcher**
+**Software Engineer | Builder | Lifelong Learner**
 
 <p align="center">
   <a href="https://jasonhuang.web.app/"><img src="https://img.shields.io/badge/Portfolio-jasonhuang.web.app-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -22,13 +22,13 @@
 
 ---
 
-### 🚀 Engineering Focus
+### 🚀 What I Work On
 
-I am a Software Engineer with a full-stack foundation and breadth across applied systems. I focus on delivering end-to-end solutions, from polished user interfaces to robust, production-ready infrastructure.
+I'm a software engineer who enjoys building across the stack — from the user interface down to the services and data that power it. I like taking projects end to end and picking up whatever the problem needs along the way.
 
-| **Product & Services** | **Infrastructure & Data** | **Applied Systems** |
+| **Product & Web** | **Backend & Data** | **Applied Systems** |
 | :--- | :--- | :--- |
-| Production software, full-stack product UI, and robust backend services. | Scalable infrastructure, devops operations, and complex data workflows. | Graph algorithms, research tooling, IoT, and robotics integration. |
+| Full-stack apps, clean UIs, and the services behind them. | APIs, data workflows, and cloud/devops tooling. | Graph algorithms, research tooling, IoT, and robotics. |
 
 ---
 
